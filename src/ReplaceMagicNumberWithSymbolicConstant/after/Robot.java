@@ -5,6 +5,7 @@ public class Robot {
     public static final int COMMAND_STOP = 1;
     public static final int COMMAND_JUMP = 2;
     private final String _name;
+
     public Robot(String name) {
         _name = name;
     }

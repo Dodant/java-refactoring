@@ -1,3 +1,5 @@
+package ReplaceMagicNumberWithSymbolicConstant.enumerate;
+
 public class Robot {
     private final String _name;
     public enum Command {
