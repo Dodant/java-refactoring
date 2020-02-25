@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03891ab3-80dd-4c7b-9252-ad50f58302ec" name="Default Changelist" comment="" />
+    <list default="true" id="03891ab3-80dd-4c7b-9252-ad50f58302ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YD1OhKif3KkNezePMZLpe4kSCa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -80,6 +85,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1398" height="195" key="GridCell.Tab.0.bottom" timestamp="1582544587375">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582544587375" />
+    <state width="1398" height="195" key="GridCell.Tab.0.center" timestamp="1582544587370">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582544587370" />
+    <state width="1398" height="195" key="GridCell.Tab.0.left" timestamp="1582544587369">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582544587369" />
+    <state width="1398" height="195" key="GridCell.Tab.0.right" timestamp="1582544587372">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582544587372" />
+    <state x="380" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1582638433549">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="380" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1582638433549" />
     <state x="424" y="332" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582462628447">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
