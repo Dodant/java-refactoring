@@ -23,7 +23,10 @@
 
 - ~~5장 메서드 추출~~ (02/27)
   - inline method
-- 6장 클래스 추출
+- ~~6장 클래스 추출~~ (02/28)
+  - delegation
+  - immutable interface
+  - inline class
 - 7장 분류코드를 클래스로 치환
 - 8장 분류코드를 하위클래스로 치환
 - 9장 분류코드를 상태/전략으로 치환
