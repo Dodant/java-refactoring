@@ -27,8 +27,11 @@
   - delegation
   - immutable interface
   - inline class
-- 7장 분류코드를 클래스로 치환
-- 8장 분류코드를 하위클래스로 치환
+- ~~7장 분류코드를 클래스로 치환~~ (03/01)
+- ~~8장 분류코드를 하위클래스로 치환~~ (03/01)
+  - ~~switch~~
+  - factory class
+  - abstract class
 - 9장 분류코드를 상태/전략으로 치환
 - 10장 분류코드를 예외로 치환
 
