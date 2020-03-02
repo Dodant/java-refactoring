@@ -32,7 +32,8 @@
   - ~~switch~~
   - factory class
   - abstract class
-- 9장 분류코드를 상태/전략으로 치환
+- ~~9장 분류코드를 상태/전략으로 치환~~ (03/02)
+  - self encapsulation
 - 10장 분류코드를 예외로 치환
 
 ## 대규모 리팩토링
